@@ -1,15 +1,80 @@
 [
   {
     "item": {
-      "value": "Q332902",
-      "label": "Nicholas Edwards, Baron Crickhowell"
+      "value": "Q333823",
+      "label": "Gwilym Lloyd George, 1st Viscount Tenby"
     },
-    "statement": "Q332902$E853524C-D0EA-4C5A-980C-18ABCC557AF6"
+    "replaces": {
+      "value": "Q334337",
+      "label": "David Maxwell Fyfe, 1st Earl of Kilmuir"
+    },
+    "replacedBy": {
+      "value": "Q333889",
+      "label": "Henry Brooke, Baron Brooke of Cumnor"
+    },
+    "statement": "Q333823$3162ABEB-D559-4DF4-81BB-07A6A47D594A",
+    "start": "1954-10-18T00:00:00Z",
+    "end": "1957-01-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333889",
+      "label": "Henry Brooke, Baron Brooke of Cumnor"
+    },
+    "replaces": {
+      "value": "Q333823",
+      "label": "Gwilym Lloyd George, 1st Viscount Tenby"
+    },
+    "replacedBy": {
+      "value": "Q333392",
+      "label": "Charles Hill, Baron Hill of Luton"
+    },
+    "statement": "Q333889$543B2253-E9D4-4DDF-84CF-42F6E26CD48E",
+    "start": "1957-01-13T00:00:00Z",
+    "end": "1961-10-09T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333392",
+      "label": "Charles Hill, Baron Hill of Luton"
+    },
+    "replaces": {
+      "value": "Q333889",
+      "label": "Henry Brooke, Baron Brooke of Cumnor"
+    },
+    "replacedBy": {
+      "value": "Q333694",
+      "label": "Keith Joseph"
+    },
+    "statement": "Q333392$94BC9A2D-181E-4D8F-B448-8C79745FE797",
+    "start": "1961-10-09T00:00:00Z",
+    "end": "1962-07-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333694",
+      "label": "Keith Joseph"
+    },
+    "replaces": {
+      "value": "Q333392",
+      "label": "Charles Hill, Baron Hill of Luton"
+    },
+    "replacedBy": {
+      "value": "Q333834",
+      "label": "Jim Griffiths"
+    },
+    "statement": "Q333694$28263360-60A6-4211-BBA1-A7FD0E90233B",
+    "start": "1962-07-13T00:00:00Z",
+    "end": "1964-10-16T00:00:00Z"
   },
   {
     "item": {
       "value": "Q333834",
       "label": "Jim Griffiths"
+    },
+    "replaces": {
+      "value": "Q333694",
+      "label": "Keith Joseph"
     },
     "replacedBy": {
       "value": "Q333652",
@@ -18,6 +83,23 @@
     "statement": "Q333834$B4998E42-021F-4354-94DF-23492F9F673D",
     "start": "1964-10-18T00:00:00Z",
     "end": "1966-04-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333652",
+      "label": "Cledwyn Hughes, Baron Cledwyn of Penrhos"
+    },
+    "replaces": {
+      "value": "Q333834",
+      "label": "Jim Griffiths"
+    },
+    "replacedBy": {
+      "value": "Q333919",
+      "label": "George Thomas, 1st Viscount Tonypandy"
+    },
+    "statement": "Q333652$BA773026-1F24-488E-9C37-DBDBAEBA2ECD",
+    "start": "1966-04-05T00:00:00Z",
+    "end": "1968-04-05T00:00:00Z"
   },
   {
     "item": {
@@ -38,6 +120,23 @@
   },
   {
     "item": {
+      "value": "Q333616",
+      "label": "Peter Thomas, Baron Thomas of Gwydir"
+    },
+    "replaces": {
+      "value": "Q333919",
+      "label": "George Thomas, 1st Viscount Tonypandy"
+    },
+    "replacedBy": {
+      "value": "Q333932",
+      "label": "John Morris, Baron Morris of Aberavon"
+    },
+    "statement": "Q333616$24D3B997-F35F-43B8-9A53-CD024D350D8A",
+    "start": "1970-06-20T00:00:00Z",
+    "end": "1974-03-05T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q333932",
       "label": "John Morris, Baron Morris of Aberavon"
     },
@@ -55,6 +154,23 @@
   },
   {
     "item": {
+      "value": "Q332902",
+      "label": "Nicholas Edwards, Baron Crickhowell"
+    },
+    "replaces": {
+      "value": "Q333932",
+      "label": "John Morris, Baron Morris of Aberavon"
+    },
+    "replacedBy": {
+      "value": "Q333858",
+      "label": "Peter Walker, Baron Walker of Worcester"
+    },
+    "statement": "Q332902$E853524C-D0EA-4C5A-980C-18ABCC557AF6",
+    "start": "1979-05-05T00:00:00Z",
+    "end": "1987-06-13T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q333858",
       "label": "Peter Walker, Baron Walker of Worcester"
     },
@@ -69,6 +185,23 @@
     "statement": "Q333858$A76CFBC0-EE03-4C92-AE8C-3C6A27FB4884",
     "start": "1987-06-13T00:00:00Z",
     "end": "1990-05-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333909",
+      "label": "David Hunt, Baron Hunt of Wirral"
+    },
+    "replaces": {
+      "value": "Q333858",
+      "label": "Peter Walker, Baron Walker of Worcester"
+    },
+    "replacedBy": {
+      "value": "Q333846",
+      "label": "John Redwood"
+    },
+    "statement": "Q333909$C1A785FD-3150-4856-BE6C-1E98B903849A",
+    "start": "1990-05-04T00:00:00Z",
+    "end": "1993-05-27T00:00:00Z"
   },
   {
     "item": {
@@ -157,6 +290,23 @@
   },
   {
     "item": {
+      "value": "Q333828",
+      "label": "Paul Murphy"
+    },
+    "replaces": {
+      "value": "Q19397",
+      "label": "Alun Michael"
+    },
+    "replacedBy": {
+      "value": "Q333165",
+      "label": "Peter Hain"
+    },
+    "statement": "Q333828$9890A214-CB54-4F6E-99C7-843E01D1FC3A",
+    "start": "1999-07-28T00:00:00Z",
+    "end": "2002-10-24T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q333165",
       "label": "Peter Hain"
     },
@@ -225,8 +375,33 @@
   },
   {
     "item": {
+      "value": "Q728167",
+      "label": "David Jones"
+    },
+    "replaces": {
+      "value": "Q333852",
+      "label": "Cheryl Gillan"
+    },
+    "replacedBy": {
       "value": "Q291393",
       "label": "Stephen Crabb"
+    },
+    "statement": "Q728167$B4517914-D37B-4EEF-88A2-3250E78D28CD",
+    "start": "2012-09-04T00:00:00Z",
+    "end": "2014-07-14T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q291393",
+      "label": "Stephen Crabb"
+    },
+    "replaces": {
+      "value": "Q728167",
+      "label": "David Jones"
+    },
+    "replacedBy": {
+      "value": "Q268030",
+      "label": "Alun Cairns"
     },
     "statement": "Q291393$171c1770-4101-2e9e-c7ab-7eceb350c9ac",
     "start": "2014-07-15T00:00:00Z",
@@ -241,13 +416,22 @@
       "value": "Q291393",
       "label": "Stephen Crabb"
     },
+    "replacedBy": {
+      "value": "Q478345",
+      "label": "Simon Hart"
+    },
     "statement": "Q268030$ebe6816d-4d27-5e80-76de-fc36c8442232",
-    "start": "2016-03-19T00:00:00Z"
+    "start": "2016-03-19T00:00:00Z",
+    "end": "2019-11-06T00:00:00Z"
   },
   {
     "item": {
       "value": "Q478345",
       "label": "Simon Hart"
+    },
+    "replaces": {
+      "value": "Q268030",
+      "label": "Alun Cairns"
     },
     "statement": "Q478345$4f2e0fb7-4c41-22db-f838-0b81e45357e8",
     "start": "2019-12-16T00:00:00Z"
