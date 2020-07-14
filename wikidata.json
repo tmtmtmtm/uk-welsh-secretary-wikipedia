@@ -1,0 +1,255 @@
+[
+  {
+    "item": {
+      "value": "Q332902",
+      "label": "Nicholas Edwards, Baron Crickhowell"
+    },
+    "statement": "Q332902$E853524C-D0EA-4C5A-980C-18ABCC557AF6"
+  },
+  {
+    "item": {
+      "value": "Q333834",
+      "label": "Jim Griffiths"
+    },
+    "replacedBy": {
+      "value": "Q333652",
+      "label": "Cledwyn Hughes, Baron Cledwyn of Penrhos"
+    },
+    "statement": "Q333834$B4998E42-021F-4354-94DF-23492F9F673D",
+    "start": "1964-10-18T00:00:00Z",
+    "end": "1966-04-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333919",
+      "label": "George Thomas, 1st Viscount Tonypandy"
+    },
+    "replaces": {
+      "value": "Q333652",
+      "label": "Cledwyn Hughes, Baron Cledwyn of Penrhos"
+    },
+    "replacedBy": {
+      "value": "Q333616",
+      "label": "Peter Thomas, Baron Thomas of Gwydir"
+    },
+    "statement": "Q333919$239AB99D-1A57-4353-BC02-58FFB51A131A",
+    "start": "1968-04-06T00:00:00Z",
+    "end": "1970-06-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333932",
+      "label": "John Morris, Baron Morris of Aberavon"
+    },
+    "replaces": {
+      "value": "Q333616",
+      "label": "Peter Thomas, Baron Thomas of Gwydir"
+    },
+    "replacedBy": {
+      "value": "Q332902",
+      "label": "Nicholas Edwards, Baron Crickhowell"
+    },
+    "statement": "Q333932$79F0E58B-4E64-4BB1-AD40-F45455709FA4",
+    "start": "1974-03-05T00:00:00Z",
+    "end": "1979-05-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333858",
+      "label": "Peter Walker, Baron Walker of Worcester"
+    },
+    "replaces": {
+      "value": "Q332902",
+      "label": "Nicholas Edwards, Baron Crickhowell"
+    },
+    "replacedBy": {
+      "value": "Q333909",
+      "label": "David Hunt, Baron Hunt of Wirral"
+    },
+    "statement": "Q333858$A76CFBC0-EE03-4C92-AE8C-3C6A27FB4884",
+    "start": "1987-06-13T00:00:00Z",
+    "end": "1990-05-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333846",
+      "label": "John Redwood"
+    },
+    "replaces": {
+      "value": "Q333909",
+      "label": "David Hunt, Baron Hunt of Wirral"
+    },
+    "replacedBy": {
+      "value": "Q58282",
+      "label": "William Hague"
+    },
+    "statement": "Q333846$1E055CC5-CCF1-4215-9F87-59D85D47C457",
+    "start": "1993-05-27T00:00:00Z",
+    "end": "1995-06-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333909",
+      "label": "David Hunt, Baron Hunt of Wirral"
+    },
+    "replaces": {
+      "value": "Q333846",
+      "label": "John Redwood"
+    },
+    "replacedBy": {
+      "value": "Q58282",
+      "label": "William Hague"
+    },
+    "statement": "Q333909$FFFE018E-FB71-4F20-B225-13C0140553AD",
+    "start": "1995-06-26T00:00:00Z",
+    "end": "1995-07-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q58282",
+      "label": "William Hague"
+    },
+    "replaces": {
+      "value": "Q333909",
+      "label": "David Hunt, Baron Hunt of Wirral"
+    },
+    "replacedBy": {
+      "value": "Q333869",
+      "label": "Ron Davies"
+    },
+    "statement": "Q58282$b82cfdc9-41b8-c105-8d90-c9615c39f8bf",
+    "start": "1995-07-05T00:00:00Z",
+    "end": "1997-05-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333869",
+      "label": "Ron Davies"
+    },
+    "replaces": {
+      "value": "Q58282",
+      "label": "William Hague"
+    },
+    "replacedBy": {
+      "value": "Q19397",
+      "label": "Alun Michael"
+    },
+    "statement": "Q333869$EBD52B36-D755-4982-9FD4-FFA4FD74089E",
+    "start": "1997-05-02T00:00:00Z",
+    "end": "1998-10-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q19397",
+      "label": "Alun Michael"
+    },
+    "replaces": {
+      "value": "Q333869",
+      "label": "Ron Davies"
+    },
+    "replacedBy": {
+      "value": "Q333828",
+      "label": "Paul Murphy"
+    },
+    "statement": "Q19397$C53DE336-86AF-49F7-BB73-D01274E6532C",
+    "start": "1998-10-27T00:00:00Z",
+    "end": "1999-07-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333165",
+      "label": "Peter Hain"
+    },
+    "replaces": {
+      "value": "Q333828",
+      "label": "Paul Murphy"
+    },
+    "replacedBy": {
+      "value": "Q333828",
+      "label": "Paul Murphy"
+    },
+    "statement": "Q333165$d553c247-41aa-614a-0d46-42ca09cb5512",
+    "start": "2002-10-24T00:00:00Z",
+    "end": "2008-01-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333828",
+      "label": "Paul Murphy"
+    },
+    "replaces": {
+      "value": "Q333165",
+      "label": "Peter Hain"
+    },
+    "replacedBy": {
+      "value": "Q333165",
+      "label": "Peter Hain"
+    },
+    "statement": "Q333828$AF6C38B9-5770-4CBF-9D4E-8E67BB10BF4D",
+    "start": "2008-01-24T00:00:00Z",
+    "end": "2009-06-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333165",
+      "label": "Peter Hain"
+    },
+    "replaces": {
+      "value": "Q333828",
+      "label": "Paul Murphy"
+    },
+    "replacedBy": {
+      "value": "Q333852",
+      "label": "Cheryl Gillan"
+    },
+    "statement": "Q333165$F6B85C93-44E9-40A4-803B-34FD7A4D29E3",
+    "start": "2009-06-05T00:00:00Z",
+    "end": "2010-05-11T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333852",
+      "label": "Cheryl Gillan"
+    },
+    "replaces": {
+      "value": "Q333165",
+      "label": "Peter Hain"
+    },
+    "replacedBy": {
+      "value": "Q728167",
+      "label": "David Jones"
+    },
+    "statement": "Q333852$1C7756A0-8FDA-4616-87EC-9DA3F451D003",
+    "start": "2010-05-12T00:00:00Z",
+    "end": "2012-09-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q291393",
+      "label": "Stephen Crabb"
+    },
+    "statement": "Q291393$171c1770-4101-2e9e-c7ab-7eceb350c9ac",
+    "start": "2014-07-15T00:00:00Z",
+    "end": "2016-03-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q268030",
+      "label": "Alun Cairns"
+    },
+    "replaces": {
+      "value": "Q291393",
+      "label": "Stephen Crabb"
+    },
+    "statement": "Q268030$ebe6816d-4d27-5e80-76de-fc36c8442232",
+    "start": "2016-03-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q478345",
+      "label": "Simon Hart"
+    },
+    "statement": "Q478345$4f2e0fb7-4c41-22db-f838-0b81e45357e8",
+    "start": "2019-12-16T00:00:00Z"
+  }
+]
