@@ -1,6 +1,19 @@
 [
   {
     "item": {
+      "value": "Q334337",
+      "label": "David Maxwell Fyfe, 1st Earl of Kilmuir"
+    },
+    "replacedBy": {
+      "value": "Q333823",
+      "label": "Gwilym Lloyd George, 1st Viscount Tenby"
+    },
+    "statement": "Q334337$4850445D-49FA-4BC5-BDFE-06A7FD57F9A5",
+    "start": "1951-10-28T00:00:00Z",
+    "end": "1954-10-18T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q333823",
       "label": "Gwilym Lloyd George, 1st Viscount Tenby"
     },
@@ -213,8 +226,8 @@
       "label": "David Hunt, Baron Hunt of Wirral"
     },
     "replacedBy": {
-      "value": "Q58282",
-      "label": "William Hague"
+      "value": "Q333909",
+      "label": "David Hunt, Baron Hunt of Wirral"
     },
     "statement": "Q333846$1E055CC5-CCF1-4215-9F87-59D85D47C457",
     "start": "1993-05-27T00:00:00Z",
